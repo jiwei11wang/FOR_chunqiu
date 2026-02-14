@@ -1,0 +1,37 @@
+This job can be monitored from: https://job.c3se.chalmers.se/alvis/5880121
+[INFO] JobID: 5880121
+[INFO] ArrayTaskID: 7
+[INFO] Host: alvis10-11
+[INFO] Start: Fri Feb 13 18:58:48 CET 2026
+[INFO] RUN_DIR: /mimer/NOBACKUP/groups/naiss2025-22-468/Battery-phase-prediction/FOR_chunqiu
+[INFO] which python: /mimer/NOBACKUP/groups/naiss2025-22-468/bamm_venv/bin/python
+Python 3.12.3
+cwd = /mimer/NOBACKUP/groups/naiss2025-22-468/Battery-phase-prediction/FOR_chunqiu
+autocatalytic_cores_lib import ok
+[INFO] Selected notebook: New_Bound_Randomize_Topo_and_Kinetics_order10_accuracy_1e-4_fixsize.ipynb
+[INFO] Output executed notebook: /mimer/NOBACKUP/groups/naiss2025-22-468/Battery-phase-prediction/FOR_chunqiu/executed_ipynb/New_Bound_Randomize_Topo_and_Kinetics_order10_accuracy_1e-4_fixsize_executed.ipynb
+[INFO] Done: Fri Feb 13 23:53:26 CET 2026
+[INFO] sacct summary:
+JobID             State ExitCode     ReqMem     MaxRSS    Elapsed  Timelimit 
+------------ ---------- -------- ---------- ---------- ---------- ---------- 
+5880121_1       RUNNING      0:0     31624M              05:10:41 1-00:00:00 
+5880121_1.b+    RUNNING      0:0                         05:10:41            
+5880121_1.e+    RUNNING      0:0                         05:10:41            
+5880121_2       RUNNING      0:0     31624M              05:06:12 1-00:00:00 
+5880121_2.b+    RUNNING      0:0                         05:06:12            
+5880121_2.e+    RUNNING      0:0                         05:06:12            
+5880121_3       RUNNING      0:0     31624M              05:06:12 1-00:00:00 
+5880121_3.b+    RUNNING      0:0                         05:06:12            
+5880121_3.e+    RUNNING      0:0                         05:06:12            
+5880121_4       RUNNING      0:0     31624M              04:57:49 1-00:00:00 
+5880121_4.b+    RUNNING      0:0                         04:57:49            
+5880121_4.e+    RUNNING      0:0                         04:57:49            
+5880121_5       RUNNING      0:0     31624M              04:56:46 1-00:00:00 
+5880121_5.b+    RUNNING      0:0                         04:56:46            
+5880121_5.e+    RUNNING      0:0                         04:56:46            
+5880121_6       RUNNING      0:0     31624M              04:55:01 1-00:00:00 
+5880121_6.b+    RUNNING      0:0                         04:55:01            
+5880121_6.e+    RUNNING      0:0                         04:55:01            
+5880121_7       RUNNING      0:0     31624M              04:54:59 1-00:00:00 
+5880121_7.b+    RUNNING      0:0                         04:54:59            
+5880121_7.e+    RUNNING      0:0                         04:54:59            

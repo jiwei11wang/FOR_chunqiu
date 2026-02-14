@@ -1,0 +1,19 @@
+This job can be monitored from: https://job.c3se.chalmers.se/alvis/5880198
+[INFO] JobID: 5880198
+[INFO] ArrayTaskID: 2
+[INFO] Host: alvis-cpu1
+[INFO] Start: Fri Feb 13 18:47:16 CET 2026
+[INFO] RUN_DIR: /mimer/NOBACKUP/groups/naiss2025-22-468/Battery-phase-prediction/FOR_chunqiu
+[INFO] which python: /mimer/NOBACKUP/groups/naiss2025-22-468/bamm_venv/bin/python
+Python 3.12.3
+cwd = /mimer/NOBACKUP/groups/naiss2025-22-468/Battery-phase-prediction/FOR_chunqiu
+autocatalytic_cores_lib import ok
+[INFO] Selected notebook: New_Bound_Randomize_Topo_and_Kinetics_order3_accuracy_1e-4.ipynb
+[INFO] Output executed notebook: /mimer/NOBACKUP/groups/naiss2025-22-468/Battery-phase-prediction/FOR_chunqiu/executed_ipynb/New_Bound_Randomize_Topo_and_Kinetics_order3_accuracy_1e-4_executed.ipynb
+[INFO] Done: Sat Feb 14 05:34:33 CET 2026
+[INFO] sacct summary:
+JobID             State ExitCode     ReqMem     MaxRSS    Elapsed  Timelimit 
+------------ ---------- -------- ---------- ---------- ---------- ---------- 
+5880121_2       RUNNING      0:0     31624M              10:47:18 1-00:00:00 
+5880121_2.b+    RUNNING      0:0                         10:47:18            
+5880121_2.e+    RUNNING      0:0                         10:47:18            
